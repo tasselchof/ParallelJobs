@@ -1,7 +1,7 @@
 ZF2 ParallelJobs module
 ============
 
-Version 1.5 Created by [Vincent Blanchon](http://developpeur-zend-framework.fr/)
+Version 1.5.0 Created by [Vincent Blanchon](http://developpeur-zend-framework.fr/)
 
 Introduction
 ------------

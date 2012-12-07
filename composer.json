@@ -1,0 +1,29 @@
+{
+    "name": "blanchonvincent/parallel-jobs",
+    "description": "ZF2 module v1.5.0 - Fork Manager to manage parallel tasks - Use my SimpleMemoryShared to add features on this module",
+    "version": "1.5.0",
+    "type": "module",
+    "license": "MIT",
+    "tags": [
+        "zend framework",
+        "fork",
+        "module"
+    ],
+    "homepage": "https://github.com/blanchonvincent/ParallelJobs",
+    "authors": [
+        {
+            "name": "Vincent Blanchon",
+            "email": "blanchon.vincent@gmail.com",
+            "homepage": "http://developpeur-zend-framework.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    "autoload": {
+    	"psr-0": {
+            "ParallelJobs": "src/"
+    	}
+    }
+}
